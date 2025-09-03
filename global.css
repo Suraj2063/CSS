@@ -1,0 +1,43 @@
+.bg-red{
+    background-color: red;
+    color:white;
+    font-size: 32px;
+   text-align: center;
+}
+.Success{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.Error{
+    background-color:red ;
+    color: white;
+    text-align: center;
+}
+.Warning{
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+.Suraj{
+    height: 40px;
+    width: 200px;
+    border: solid blue 2px;
+} 
+.patel{
+    border: solid rgb(108, 240, 19) 2px;
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+}  
+.pat{
+    width: 120px;
+    height: 100px;
+    background-color: green;
+}
+.sure{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
